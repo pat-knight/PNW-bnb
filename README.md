@@ -3,6 +3,7 @@
 #### An air-bnb clone built in React using [Reactivesearch](https://opensource.appbase.io/reactivesearch/)
 
 [screenshot](image/screenshot.png)
+<img src="image/screenshot.png" alt="Customer screenshot" width="400px" />
 
 ------------------------------------------------
 
