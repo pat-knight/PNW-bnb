@@ -1,8 +1,8 @@
 # PNW-bnb
 
-#### An air-bnb clone built in React using ![Reactivesearch](https://opensource.appbase.io/reactivesearch/)
+#### An air-bnb clone built in React using [Reactivesearch](https://opensource.appbase.io/reactivesearch/)
 
-(src/Assets/screenshot.png)
+[screenshot](image/screenshot.png)
 
 ------------------------------------------------
 
