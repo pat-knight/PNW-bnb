@@ -2,6 +2,8 @@
 
 #### An air-bnb clone built in React using [Reactivesearch](https://opensource.appbase.io/reactivesearch/)
 
+### [Live Site](https://pnw-bnb.netlify.com/)
+
 ![screenshot](src/image/screenshot.png)
 
 
